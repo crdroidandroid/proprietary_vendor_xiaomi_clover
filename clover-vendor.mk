@@ -84,15 +84,11 @@ PRODUCT_PACKAGES += \
     keystore.sdm660 \
     libchromaflash \
     libdualcameraddm \
-    libkeymasterdeviceutils \
-    libkeymasterprovision \
-    libkeymasterutils \
     libmmcamera2_frame_algorithm \
     libmmcamera2_is \
     libmmcamera2_q3a_core \
     libmmcamera2_stats_algorithm \
     libmmcamera2_stats_lib \
-    libmmcamera_dbg \
     libmmcamera_faceproc \
     libmmcamera_faceproc2 \
     libmmcamera_tintless_algo \
@@ -114,12 +110,10 @@ PRODUCT_PACKAGES += \
     libseemore \
     libsensor1 \
     libsensor_reg \
-    libthermalclient \
     libthermalfeature \
     libts_detected_face_hal \
     libts_face_beautify_hal \
     libubifocus \
-    libvideobokeh \
     libvideoutils \
     sensor_calibrate \
     sensors.ssc \
@@ -349,6 +343,7 @@ PRODUCT_PACKAGES += \
     libqomx_jpegenc_pipe \
     libremosaic_daemon \
     libtrueportrait \
+    libvideobokeh \
     fingerprint.fpc.default \
     libqfp-service \
     libthermalioctl \
